@@ -1,5 +1,5 @@
 frontend
 ========
-Listing of my personal work
+List Of Best CSS Sites:
 
-<pre> Poorna the legand </pre>
+<pre>http://www.quackit.com/css/tutorial/css_lists.cfm</pre>
