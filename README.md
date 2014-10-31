@@ -19,7 +19,7 @@ List Of Best CSS Sites:
 aria-autocomplete indicates whether user input completion suggestions are provided.
 both: A list of choices appears and the currently selected suggestion also appears inline.<br/>
 Auto Complete have the role of combo box.<br/>
-<input type=”text” aria-autocomplete=”both” role=”combobox”></pre><hr></li>
+<code><input type=”text” aria-autocomplete=”both” role=”combobox”></code></pre><hr></li>
 
 <li><pre><b>Visuallyhidden class:-</b>
 “Visuallyhidden” class was originally from HTML5Boilerplate. It assists the screen readers.<br/>
