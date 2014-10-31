@@ -36,17 +36,17 @@ position: absolute !important;
 }</pre><hr></li>
 <li><pre>
 <b>Aria-label and Aria-labelledby</b>
-aria-label can be used when providing a visible and / or tooltip is not the desired user experience. However, if the label text is visible on screen, you should use aria-labelledby instead of aria-label<br/>
+<i>aria-label</i> can be used when providing a visible and / or tooltip is not the desired user experience. <br/>However, if the label text is visible on screen, you should use aria-labelledby instead of aria-label<br/>
 <button class=”search” aria-label= “Auto Search”>search</button>
 <button class=”search” aria-labelledby=”Auto Search”>Auto Search</button>
 
 </pre></li>
 <li><pre>
-<i>Aria-expanded</i>
+<b>Aria-expanded</b>
 aria-expanded sets or retrieves the expanded state of the element.
-Aria-expanded = “true”
+<i>Aria-expanded = “true”</i>
 	The element is expanded
-aria-expanded = “false”
+<i>aria-expanded = “false”</i>
 	The element Is not expanded
 </pre></li>
 </ul>
