@@ -13,13 +13,13 @@ List Of Best CSS Sites:
 <i>aria-haspopup = “true”</i>
 	To indicate that there is a pop up for the input.</pre><hr></li>
 
-<li><pre>Auto Complete:-
-aria-autocomplete = “both”
+<li><pre><b>Auto Complete:-</b>
+<i>aria-autocomplete = “both”</i>
 
 aria-autocomplete indicates whether user input completion suggestions are provided.
 both: A list of choices appears and the currently selected suggestion also appears inline.</pre><hr></li>
 
-<li><pre>Visuallyhidden class: -
+<li><pre><b>Visuallyhidden class: -</b>
 “Visuallyhidden” class was originally from HTML5Boilerplate. It assists the screen readers.<br/>
 Ideal for the links. We can give additional information related to the links in visuallyhidden.
 
