@@ -7,10 +7,10 @@ List Of Best CSS Sites:
 
 <strong>ARIA:</strong>
 <ul>
-<li><pre>POPUP:-
-aria-haspopup = “false”
+<li><pre><b>POPUP:-</b>
+<i>aria-haspopup = “false”</i>
 	To indicate that there is no pop up for the input.
-aria-haspopup = “true”
+<i>aria-haspopup = “true”</i>
 	To indicate that there is a pop up for the input.</pre><hr></li>
 
 <li><pre>Auto Complete:-
