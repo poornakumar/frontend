@@ -1,4 +1,4 @@
-Front End Tutorial
+Front End Resources
 ========
 List Of Best CSS Sites:
 
@@ -7,19 +7,19 @@ List Of Best CSS Sites:
 
 <strong>ARIA:</strong>
 <ul>
-<li>POPUP:-
+<li><pre>POPUP:-
 aria-haspopup = “false”
 	To indicate that there is no pop up for the input.
 aria-haspopup = “true”
-	To indicate that there is a pop up for the input.</li>
+	To indicate that there is a pop up for the input.</pre></li>
 
-<li>Auto Complete:-
+<li><pre>Auto Complete:-
 aria-autocomplete = “both”
 
 aria-autocomplete indicates whether user input completion suggestions are provided.
-both: A list of choices appears and the currently selected suggestion also appears inline.</li>
+both: A list of choices appears and the currently selected suggestion also appears inline.</pre></li>
 
-<li>Visuallyhidden class: -
+<li><pre>Visuallyhidden class: -
 “Visuallyhidden” class was originally from HTML5Boilerplate. It assists the screen readers. Ideal for the links. We can give additional information related to the links in visuallyhidden.
 
 Example:- <span class=”visuallyhidden”>Navigate</span>
@@ -30,5 +30,5 @@ Example:- <span class=”visuallyhidden”>Navigate</span>
 	clip: rect(1px, 1px, 1px, 1px);
 	overflow: hidden;
 position: absolute !important;
-}</li>
+}</pre></li>
 </ul>
