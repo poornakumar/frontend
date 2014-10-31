@@ -17,7 +17,9 @@ List Of Best CSS Sites:
 <i>aria-autocomplete = “both”</i>
 
 aria-autocomplete indicates whether user input completion suggestions are provided.
-both: A list of choices appears and the currently selected suggestion also appears inline.</pre><hr></li>
+both: A list of choices appears and the currently selected suggestion also appears inline.<br/>
+Auto Complete have the role of combo box.<br/>
+<input type=”text” aria-autocomplete=”both” role=”combobox”></pre><hr></li>
 
 <li><pre><b>Visuallyhidden class: -</b>
 “Visuallyhidden” class was originally from HTML5Boilerplate. It assists the screen readers.<br/>
@@ -32,4 +34,19 @@ Example:- <span class=”visuallyhidden”>Navigate</span>
 	overflow: hidden;
 position: absolute !important;
 }</pre><hr></li>
+<li><pre>
+<b>Aria-label and Aria-labelledby</b>
+aria-label can be used when providing a visible and / or tooltip is not the desired user experience. However, if the label text is visible on screen, you should use aria-labelledby instead of aria-label<br/>
+<button class=”search” aria-label= “Auto Search”>search</button>
+<button class=”search” aria-labelledby=”Auto Search”>Auto Search</button>
+
+</pre></li>
+<li><pre>
+<i>Aria-expanded</i>
+aria-expanded sets or retrieves the expanded state of the element.
+Aria-expanded = “true”
+	The element is expanded
+aria-expanded = “false”
+	The element Is not expanded
+</pre></li>
 </ul>
